@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./banner.png" width="100%" alt="100 Python Projects Banner">
 </p>
@@ -32,8 +31,7 @@ A comprehensive, project-based Python learning repository designed for beginners
 
 ## Why This Repo
 - **Every file is documented** — docstrings/comments explain what each function does, inline comments explain the logic
--  **Structured by skill level** — always know exactly what to build next
-
+- **Structured by skill level** — always know exactly what to build next
 - **Best way to learn python is by creating fun tiny projects**
 
 ## What's Inside
@@ -58,14 +56,9 @@ Serious builds: data analysis, ML, databases, security.
 git clone https://github.com/teddymacharia354-code/100-python-projects-.git
 cd 100-python-projects-/BEGINNERS
 python3 project_name.py
-
-Or you can learn from this repo ,click skill level, individual projects and check out the code
----
-
-##Contributing
+Or you can learn from this repo — click into a skill level, open individual projects, and check out the code.
+Contributing
 Want to add a project? See CONTRIBUTING.md — PRs welcome.
-##License
+License
 MIT — free to use, learn from, and build on.
-�
 ⭐ If this helped you, star the repo — it helps others find it too.
-
