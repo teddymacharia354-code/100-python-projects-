@@ -59,7 +59,8 @@ git clone https://github.com/teddymacharia354-code/100-python-projects-.git
 cd 100-python-projects-/BEGINNERS
 python3 project_name.py
 
-Or you can learn from this repo ,click skill level, individual projects and check out the code```
+Or you can learn from this repo ,click skill level, individual projects and check out the code
+---
 
 ##Contributing
 Want to add a project? See CONTRIBUTING.md — PRs welcome.
