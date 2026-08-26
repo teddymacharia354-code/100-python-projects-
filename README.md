@@ -58,8 +58,9 @@ cd 100-python-projects-/BEGINNERS
 python3 project_name.py
 Or you can learn from this repo — click into a skill level, open individual projects, and check out the code.
 ```
-##Contributing
+### Contributing
 Want to add a project? See CONTRIBUTING.md — PRs welcome.
-##License
+
+### License
 MIT — free to use, learn from, and build on.
 ⭐ If this helped you, star the repo — it helps others find it too.
