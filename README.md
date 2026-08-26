@@ -1,4 +1,4 @@
-cat > README.md << 'ENDOFFILE'
+
 <p align="center">
   <img src="./banner.png" width="100%" alt="100 Python Projects Banner">
 </p>
@@ -59,7 +59,7 @@ git clone https://github.com/teddymacharia354-code/100-python-projects-.git
 cd 100-python-projects-/BEGINNERS
 python3 project_name.py
 
-Or you can learn from this repo ,click skill level, individual projects and check out the code
+Or you can learn from this repo ,click skill level, individual projects and check out the code'''
 
 ##Contributing
 Want to add a project? See CONTRIBUTING.md — PRs welcome.
@@ -68,4 +68,3 @@ MIT — free to use, learn from, and build on.
 �
 ⭐ If this helped you, star the repo — it helps others find it too.
 
-ENDOFFILE ```
