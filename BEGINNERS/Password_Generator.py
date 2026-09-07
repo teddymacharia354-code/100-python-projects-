@@ -22,14 +22,14 @@ if add_numbers == "y":
 if add_symbols == "y":
     all_chars = all_chars + symbols
 
-# build password with for loop
+# build the password 
 password = ""
 for i in range(length):
     password = password + random.choice(all_chars)
 
 print("Your password is:", password)
 
-# check strength - super simple
+# check strength 
 strength = "Weak"
 if length >= 8:
     strength = "Okay"
@@ -38,4 +38,4 @@ if length >= 12 and add_numbers == "y" and add_symbols == "y":
 
 print("Strength:", strength)
 
-#add your own features,like checking your own password strength or asking users if they want it to generate another password if the password is weak
+#add your own features,like checking your own password'S strength or asking users if they want it to generate another password if the password is weak
