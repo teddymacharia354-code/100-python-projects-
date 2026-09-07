@@ -51,14 +51,14 @@ def main():
             continue
         
         if not validate_email(email):
-            print("❌ Invalid email format!")
+            print(" Invalid email format!")
             continue
         
         info = slice_email(email)
         if info:
             display_email_info(info)
         else:
-            print("❌ Error processing email!")
+            print("Error processing email!")
 
 if __name__ == "__main__":
     main()
